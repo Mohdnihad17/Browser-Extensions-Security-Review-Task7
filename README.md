@@ -13,10 +13,9 @@ To identify, analyze, and remove potentially harmful browser extensions and beco
 
 ### 2. Reviewed Installed Extensions
 
-| Extension Name      | Description                                    | Status     |
-| ------------------- | ---------------------------------------------- | ---------- |
-| Google Docs Offline | Edit and view Google Docs without internet     | Safe       |
-| Pie Adblock         | Blocks ads on YouTube & Twitch, offers rewards | Suspicious |
+| Extension Name      | Description                                    | Status     ------------------- | ---------------------------------------------- | ---------- 
+ Google Docs Offline | Edit and view Google Docs without internet     | Safe       |
+ Pie Adblock         | Blocks ads on YouTube & Twitch, offers rewards | Suspicious 
 
 ---
 
